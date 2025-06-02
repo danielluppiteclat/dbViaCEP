@@ -1,3 +1,5 @@
+-- Script de criação da tabela endereco
+
 CREATE TABLE endereco (
     id SERIAL PRIMARY KEY,
     logradouro VARCHAR(255) NOT NULL,
